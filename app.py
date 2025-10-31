@@ -72,7 +72,7 @@ app.layout = html.Div(children=[
         
         
     html.H2(children='Scatter comparing Total Bill and Tips', style={
-        "font-size": "45px",
+        "font-size": "90px",
         "font-weight": "400",
         "background-image": "linear-gradient(to right, #553c9a 45%, #ee4b2b)",
         "color": "transparent",
